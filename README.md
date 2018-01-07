@@ -2,6 +2,8 @@
 # Vad är det här?
 En simpel klon av onlinepizza.se. Använder sig av [Ruby on Rails](http://rubyonrails.org) som JSON-API/backend och Vue.js](http://vuejs.org) som frontendramverk.
 
+Hemsidan går att se på [pizzeria-order-frontend.herokuapp.com](https://pizzeria-order-frontend.herokuapp.com). Backenden finns på [pizzeria-order-backend.herokuapp.com](https://pizzeria-order-backend.herokuapp.com).
+
 # Förklaring
 Hemsidan låter dig att registrera ett konto och fylla i dina adressuppgifter. Sedan listar den pizzerior som den tillåter dig att beställa från. Alla beställningar lagras i databasen.
 
@@ -30,3 +32,11 @@ Sedan startar du frontendservern genom:
 `$ cd frontend`
 `$ npm install`
 `$ npm run dev`
+
+# Screenshots från hemsidan
+![Startsida](https://i.imgur.com/Msx2xT0.png)
+![Pizzalista](https://i.imgur.com/2QOGy4q.png)
+![Beställa pizza](https://i.imgur.com/8WxnZd8.png)
+
+## Databasmodell
+![Databasmodell](https://i.imgur.com/xv6lcBy.png)
