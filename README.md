@@ -21,17 +21,17 @@ Frontendservern kräver node.js och npm, helst över version 3.0.
 
 # Hur använder jag det?
 För att starta den så gör du enkelt nog:
-`$ cd backend`
-`$ bundle install`
-`$ rake db:create`
-`$ rake db:migrate`
-`$ rake db:seed`
-`$ rails s`
+`$ cd backend`  
+`$ bundle install`  
+`$ rake db:create`  
+`$ rake db:migrate`  
+`$ rake db:seed`  
+`$ rails s`  
 
 Sedan startar du frontendservern genom:
-`$ cd frontend`
-`$ npm install`
-`$ npm run dev`
+`$ cd frontend`  
+`$ npm install`  
+`$ npm run dev`  
 
 # Screenshots från hemsidan
 ![Startsida](https://i.imgur.com/Msx2xT0.png)
